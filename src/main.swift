@@ -30,3 +30,4 @@ KakaoTalk CLI for AI agents - read and send messages via database + UI automatio
 // handle the edge case from the last release
 // clarify the control flow
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
