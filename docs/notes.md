@@ -63,3 +63,4 @@ Notes and usage details for kakaocli.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
